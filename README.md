@@ -1,4 +1,5 @@
-# contekan
+# program array dan fungsi
+
 	#include <iostream>
 	#include <stdlib.h>
 	using namespace std;
